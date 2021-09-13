@@ -1,0 +1,138 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.head {
+    background-image: url("./Assets/h_img.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40rem;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo>img {
+    margin-top: 12%;
+    padding: 2rem;
+}
+
+.welcome {
+    color: white;
+    padding: 2rem;
+}
+
+.para {
+    color: white;
+}
+
+#click img {
+    margin-top: 2rem;
+    animation: float 3s linear infinite;
+}
+
+@keyframes float {
+    100% {
+        transform: translateY(0rem);
+    }
+
+    50% {
+        transform: translateY(3rem);
+    }
+}
+/* portfolio--------------------------------------------------------------------- */
+.image4{
+    position: relative;
+    width: 350px;
+    margin-bottom: 2rem;
+}
+.image4 img{
+    display: block;
+    width: 100%;
+}
+.grey{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: none;
+
+}
+.image4:hover{
+    opacity: 0.2;
+}
+.grey:hover{
+    opacity: 1;
+}
+#Title  >h6{
+font-size: 2rem;
+margin-top: 30%;
+}
+
+
+
+
+.about {
+    text-align: center;
+}
+
+#services {
+    background-image: url(./Assets/s_image.jpg);
+    height: 30vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.service {
+
+    padding: 5rem;
+}
+
+h2 {
+    align-items: center;
+    text-align: center;
+    padding: 3rem;
+
+}
+
+#paragraph p {
+    display: none;
+    cursor: pointer;
+}
+
+.contact {
+    padding: 2rem;
+}
+
+#contact {
+    background-image: url("./Assets/c_image.jpg");
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+}
+
+
+#name,#email,#message {
+    background-color: transparent;
+    color: white;
+}
+
+
+.btn {
+    background-color: red;
+    font-weight: 300px;
+    border-radius: 10rem;
+}
