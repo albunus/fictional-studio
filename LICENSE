@@ -1,27 +1,3 @@
-# fictional-studio
-
-#### This is a website that intends to give an interactive platform for a studio, 13th Sept 2021. version (1.0)
-#### Developed By 
-[Albunus](https://github.com/albunus)
-
-## Description
- This is a studio website
- 
-## Setup/Installation Requirements
-
-Live link to view the project  https://albunus.github.io/program-to-allocate-names-deppending-on-day-of-birth/
-
-## Known Bugs
-implimentation challanges specifically making on portfolio section(implimenting hovering functionality), Error Drbugging
-
-## Technologies Used
-The technologies used include Javascript,HTML and CSS 
-
-<!--  ## Design for the project -->
-
-## Support and contact details
-📫 How to reach me **albunus.nyalita@student.moringaschool.com**
-
 MIT License
 
 Copyright (c) 2021 Albunus
@@ -43,4 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
