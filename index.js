@@ -20,6 +20,49 @@ $('.image4').mouseover(function(){
 $('.image4').mouseOut(function(){
     $(".grey").hide();
 });
+
+$('.image5').mouseover(function(){
+    $(".grey").show();
+});
+$('.image5').mouseOut(function(){
+    $(".grey").hide();
+});
+$('.image6').mouseover(function(){
+    $(".grey").show();
+});
+$('.image6').mouseOut(function(){
+    $(".grey").hide();
+});
+$('.image7').mouseover(function(){
+    $(".grey").show();
+});
+$('.image7').mouseOut(function(){
+    $(".grey").hide();
+});
+$('.image8').mouseover(function(){
+    $(".grey").show();
+});
+$('.image8').mouseOut(function(){
+    $(".grey").hide();
+});
+$('.image9').mouseover(function(){
+    $(".grey").show();
+});
+$('.image9').mouseOut(function(){
+    $(".grey").hide();
+});
+$('.image10').mouseover(function(){
+    $(".grey").show();
+});
+$('.image10').mouseOut(function(){
+    $(".grey").hide();
+});
+$('.image11').mouseover(function(){
+    $(".grey").show();
+});
+$('.image11').mouseOut(function(){
+    $(".grey").hide();
+});
 });
 //form validation
 function formTush() {
