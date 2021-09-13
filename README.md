@@ -9,7 +9,7 @@
  
 ## Setup/Installation Requirements
 
-Live link to view the project  https://albunus.github.io/program-to-allocate-names-deppending-on-day-of-birth/
+Live link to view the project https://albunus.github.io/fictional-studio/
 
 ## Known Bugs
 implimentation challanges specifically making on portfolio section(implimenting hovering functionality), Error Drbugging
