@@ -14,7 +14,7 @@ $(document).ready(function () {
     });
 
 //portfolio
-$('.image4').hover(function(){
+$('.image4').mouseover(function(){
     $(".grey").show();
 });
 $('.image4').mouseOut(function(){
